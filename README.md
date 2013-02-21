@@ -10,6 +10,7 @@ loading, etc.
 * http://www.zurb.com/article/883/small-painful-buttons-why-social-media-bu
 * http://www.phpied.com/social-button-bffs/
 * https://github.com/filamentgroup/SocialCount
+* http://www.phpied.com/speed-geeks-guide-to-facebook-buttons/
 
 
 ## Main ideas ##
